@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 # Sebastian.L
 
 
-[![Sebastián López Osorno's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SebastianLopezOsorno-SENA&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/SebastianLopezOA#gh-dark-mode-only)
-[![Sebastián López Osorno's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SebastianLopezOsorno-SENA&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/SebastianLopezO-SENA#gh-light-mode-only)
+[![Sebastián López Osorno's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SebastianLopezO&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/SebastianLopezOA#gh-dark-mode-only)
+[![Sebastián López Osorno's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SebastianLopezO&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/SebastianLopezO-SENA#gh-light-mode-only)
 
-[![Sebastián López Osorno's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianLopezOsorno-SENA&layout=compact&langs_count=7&theme=dark)](https://github.com/SebastianLopezO#gh-dark-mode-only)
-[![Sebastián López Osorno's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianLopezOsorno-SENA&layout=compact&langs_count=7&theme=default)](https://github.com/SebastianLopezO#gh-light-mode-only)
+[![Sebastián López Osorno's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianLopezO&layout=compact&langs_count=7&theme=dark)](https://github.com/SebastianLopezO#gh-dark-mode-only)
+[![Sebastián López Osorno's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianLopezO&layout=compact&langs_count=7&theme=default)](https://github.com/SebastianLopezO#gh-light-mode-only)
