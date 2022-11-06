@@ -1,5 +1,7 @@
 ### Hi there 
 
+~~~
+
                              \\\\\\\
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
@@ -19,7 +21,8 @@ _____________,'      ,',_____|      |    | |
              | ,','  __/ |             /   |
 _____________|','   ///_/-------------/   |
               |===========,'
-              
+
+~~~
 
 <!--
 **SebastianLopezOsorno-SENA/SebastianLopezOsorno-SENA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
