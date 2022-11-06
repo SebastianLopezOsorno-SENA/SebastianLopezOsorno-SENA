@@ -53,12 +53,12 @@ Here are some ideas to get you started:
 ## DarkPersist
 
 [![SitePersist GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=DarkPersist&repo=SitePersist&theme=dark#gh-dark-mode-only)](https://github.com/SebastianLopezO#gh-dark-mode-only)
-[![SitePersist GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=DarkPersist&repo=SitePersist&theme=dark#gh-light-mode-only)](https://github.com/SebastianLopezO#gh-light-mode-only)
+[![SitePersist GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=DarkPersist&repo=SitePersist&theme=default#gh-light-mode-only)](https://github.com/SebastianLopezO#gh-light-mode-only)
 
 [![AdminSitePersist GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=DarkPersist&repo=AdminSitePersist&theme=dark#gh-dark-mode-only)](https://github.com/SebastianLopezO#gh-dark-mode-only)
-[![AdminSitePersist GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=DarkPersist&repo=AdminSitePersist&theme=dark#gh-light-mode-only)](https://github.com/SebastianLopezO#gh-light-mode-only)
+[![AdminSitePersist GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=DarkPersist&repo=AdminSitePersist&theme=default#gh-light-mode-only)](https://github.com/SebastianLopezO#gh-light-mode-only)
 
 ## Techno's
 
 [![TheCompanyDream GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=Techno-s&repo=TheCompanyDream&theme=dark#gh-dark-mode-only)](https://github.com/SebastianLopezO#gh-dark-mode-only)
-[![TheCompanyDream GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=Techno-s&repo=TheCompanyDream&theme=dark#gh-light-mode-only)](https://github.com/SebastianLopezO#gh-light-mode-only)
+[![TheCompanyDream GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=Techno-s&repo=TheCompanyDream&theme=default#gh-light-mode-only)](https://github.com/SebastianLopezO#gh-light-mode-only)
