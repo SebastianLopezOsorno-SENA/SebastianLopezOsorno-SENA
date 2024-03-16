@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 [![Sebastián López Osorno's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SebastianLopezO&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/SebastianLopezO#gh-dark-mode-only)
 [![Sebastián López Osorno's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SebastianLopezO&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/SebastianLopezO#gh-light-mode-only)
 
-[![Sebastián López Osorno's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianLopezO&layout=compact&hide=HTML,Procfile,Papyrus&langs_count=10&theme=dark)](https://github.com/SebastianLopezO#gh-dark-mode-only)
-[![Sebastián López Osorno's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianLopezO&layout=compact&hide=HTML,Procfile,Papyrus&langs_count=10&theme=default)](https://github.com/SebastianLopezO#gh-light-mode-only)
+[![Sebastián López Osorno's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianLopezO&layout=compact&hide=HTML,Procfile,Papyrus&langs_count=12&theme=dark)](https://github.com/SebastianLopezO#gh-dark-mode-only)
+[![Sebastián López Osorno's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianLopezO&layout=compact&hide=HTML,Procfile,Papyrus&langs_count=12&theme=default)](https://github.com/SebastianLopezO#gh-light-mode-only)
 
 # Repositorios
 
