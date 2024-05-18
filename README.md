@@ -50,23 +50,8 @@ Here are some ideas to get you started:
 [![Sebastián López Osorno's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianLopezO&layout=compact&hide=HTML,Procfile,Papyrus&langs_count=12&theme=dark)](https://github.com/SebastianLopezO#gh-dark-mode-only)
 [![Sebastián López Osorno's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianLopezO&layout=compact&hide=HTML,Procfile,Papyrus&langs_count=12&theme=default)](https://github.com/SebastianLopezO#gh-light-mode-only)
 
-# Repositorios
 
-## DarkPersist
-
-[![SitePersist GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=DarkPersist&repo=SitePersist&theme=dark#gh-dark-mode-only)](https://github.com/SebastianLopezO#gh-dark-mode-only)
-[![SitePersist GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=DarkPersist&repo=SitePersist&theme=default#gh-light-mode-only)](https://github.com/SebastianLopezO#gh-light-mode-only)
-
-[![AdminSitePersist GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=DarkPersist&repo=AdminSitePersist&theme=dark#gh-dark-mode-only)](https://github.com/SebastianLopezO#gh-dark-mode-only)
-[![AdminSitePersist GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=DarkPersist&repo=AdminSitePersist&theme=default#gh-light-mode-only)](https://github.com/SebastianLopezO#gh-light-mode-only)
-
-## Techno's
-
-[![TheCompanyDream GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=Techno-s&repo=TheCompanyDream&theme=dark#gh-dark-mode-only)](https://github.com/SebastianLopezO#gh-dark-mode-only)
-[![TheCompanyDream GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=Techno-s&repo=TheCompanyDream&theme=default#gh-light-mode-only)](https://github.com/SebastianLopezO#gh-light-mode-only)
-
-
-<!--<h1 align="center">Hi 👋, I'm Sebastian Lopez Osorno</h1>
+<h1 align="center">Hi 👋, I'm Sebastian Lopez Osorno</h1>
 <h3 align="center">A passionate Backend developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastianlopezo&label=Profile%20views&color=0e75b6&style=flat" alt="sebastianlopezo" /> </p>
@@ -100,4 +85,4 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianlopezo&" alt="sebastianlopezo" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianlopezo&" alt="sebastianlopezo" /></p>
