@@ -3,7 +3,7 @@
 
 ### About Me
 
-I am a person with initiative and an insatiable curiosity that has led me to learn in a self-taught way in what I like, through my investigative, analytical and easy learning skills which facilitated the learning of diverse knowledge with focus to the technological area, managing to develop a passion for knowledge, so education is taken as an impulse for my formation as a person and as a professional.
+I am a self-taught individual with a strong drive for knowledge and a keen interest in my field of study. My research and analytical skills have been instrumental in my learning process, which has encompassed a diverse range of knowledge, with a particular focus on the technological area. This has led to the development of a passion for knowledge and a recognition of the value of education in my personal and professional development.
 
 ~~~
 
