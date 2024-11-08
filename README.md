@@ -70,41 +70,50 @@ _____________|','   ///_/-------------/   |
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="40"/> </a>
   
-  <!-- Frontend Development -->
+  <h4> Frontend Development</h4>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=black" alt="TailwindCSS" height="40"/> </a>
   
-  <!-- Backend Development -->
+   <h4>Backend Development</h4>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="40"/> </a>
   
-  <!-- AI/ML -->
+   <h4>Data analytics</h4>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="40"/> </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Power%20BI-ffd200?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="40"/> </a>
   
-  <!-- Database -->
+  <h4>IoT</h4>
+  <a href="https://micropython.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MicroPython-009639?style=for-the-badge&logo=python&logoColor=black" alt="MicroPython" height="40"/> </a>
+  <a href="https://thonny.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Thonny-009639?style=for-the-badge&logo=python&logoColor=black" alt="Thonny" height="40"/> </a>
+  <a href="https://www.espressif.com/en/products/hardware/esp32/overview" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/ESP32-009639?style=for-the-badge&logo=espressif&logoColor=black" alt="ESP32" height="40"/> </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Arduino-009639?style=for-the-badge&logo=arduino&logoColor=black" alt="Arduino" height="40"/> </a>
+  <a href="https://wokwi.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Wokwi-009639?style=for-the-badge&logo=wokwi&logoColor=black" alt="Wokwi" height="40"/> </a>
+
+  
+   <h4>Database</h4>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="40"/> </a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" height="40"/> </a>
   
-  <!-- DevOps -->
+   <h4>DevOps</h4>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="40"/> </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" height="40"/> </a>
   
-  <!-- Backend as a Service -->
+   <h4>Backend as a Service</h4>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" height="40"/> </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" height="40"/> </a>
   
-  <!-- Framework -->
+   <h4>Framework</h4>
   <a href="https://www.spring.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" height="40"/> </a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" height="40"/> </a>
   
-  <!-- Other tools -->
+   <h4>Other tools</h4>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" height="40"/> </a>
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Zapier-FF4D00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" height="40"/> </a>
