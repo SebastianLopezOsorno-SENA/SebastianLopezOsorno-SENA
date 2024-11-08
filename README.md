@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Lopez Osorno</h1>
-<h3 align="center">A passionate Backend developer from Colombia</h3>
+<h3 align="center">A passionate Backend developer and Data Analyst from Colombia</h3>
 
 ### About Me
 
