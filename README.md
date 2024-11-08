@@ -34,7 +34,7 @@ _____________|','   ///_/-------------/   |
 
 [![Sebastia's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianLopezO&layout=compact&hide=HTML,Procfile,Papyrus&langs_count=12&theme=dark)](https://github.com/SebastianLopezO#gh-dark-mode-only)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SebastianLopezO&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SebastianLopezO&theme=dark&hide_border=false&border_radius=10)](https://git.io/streak-stats)
 
 [![Sebastian's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SebastianLopezO&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/SebastianLopezO#gh-dark-mode-only)
 
