@@ -43,4 +43,4 @@ _____________|','   ///_/-------------/   |
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebastianlopezo" alt="sebastianlopezo" /></a> </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianlopezo&" alt="sebastianlopezo" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=SebastianLopezO&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
