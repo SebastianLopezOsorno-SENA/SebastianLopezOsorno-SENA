@@ -135,7 +135,7 @@ _____________|','   ///_/-------------/   |
 <a href="https://www.hackerrank.com/sebastianlopezo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sebastianlopezo1" height="30" width="40" /></a>
 </p>
 
-# Sebastian.L
+## 📊 GitHub Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastianlopezo&label=Profile%20views&color=0e75b6&style=flat" alt="sebastianlopezo" /> </p>
 
 [![Sebastia's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianLopezO&layout=compact&hide=HTML,Procfile,Papyrus&langs_count=12&theme=dark)](https://github.com/SebastianLopezO#gh-dark-mode-only)
