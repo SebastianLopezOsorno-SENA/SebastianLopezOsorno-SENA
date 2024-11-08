@@ -32,11 +32,11 @@ _____________|','   ///_/-------------/   |
 # Sebastian.L
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastianlopezo&label=Profile%20views&color=0e75b6&style=flat" alt="sebastianlopezo" /> </p>
 
-[![Sebastián López Osorno's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SebastianLopezO&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/SebastianLopezO#gh-dark-mode-only)
-[![Sebastián López Osorno's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SebastianLopezO&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/SebastianLopezO#gh-light-mode-only)
+[![Sebastian's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SebastianLopezO&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/SebastianLopezO#gh-dark-mode-only)
+[![Sebastia's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SebastianLopezO&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/SebastianLopezO#gh-light-mode-only)
 
-[![Sebastián López Osorno's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianLopezO&layout=compact&hide=HTML,Procfile,Papyrus&langs_count=12&theme=dark)](https://github.com/SebastianLopezO#gh-dark-mode-only)
-[![Sebastián López Osorno's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianLopezO&layout=compact&hide=HTML,Procfile,Papyrus&langs_count=12&theme=default)](https://github.com/SebastianLopezO#gh-light-mode-only)
+[![Sebastia's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianLopezO&layout=compact&hide=HTML,Procfile,Papyrus&langs_count=12&theme=dark)](https://github.com/SebastianLopezO#gh-dark-mode-only)
+[![Sebastia's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianLopezO&layout=compact&hide=HTML,Procfile,Papyrus&langs_count=12&theme=default)](https://github.com/SebastianLopezO#gh-light-mode-only)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebastianlopezo" alt="sebastianlopezo" /></a> </p>
