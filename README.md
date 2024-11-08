@@ -38,6 +38,6 @@ _____________|','   ///_/-------------/   |
 
 [![Sebastian's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SebastianLopezO&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/SebastianLopezO#gh-dark-mode-only)
 
-[![Sebastian's GitHub Contributor stats-Dark](https://github-contributor-stats.vercel.app/api?username=SebastianLopezO&theme=dark#gh-dark-mode-only)](https://github.com/SebastianLopezO#gh-dark-mode-only)
+[![Sebastian's GitHub Contributor stats-Dark](https://github-contributor-stats.vercel.app/api?username=SebastianLopezO&theme=dark&hide_contributor_rank=false#gh-dark-mode-only)](https://github.com/SebastianLopezO#gh-dark-mode-only)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SebastianLopezO&theme=onedark&row=2&column=3)](https://github.com/SebastianLopezO)
