@@ -67,10 +67,9 @@ _____________|','   ///_/-------------/   |
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="20"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="20"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="20"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="20"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="20"/></a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="20"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="20"/> </a>
-  <a href="https://en.wikipedia.org/wiki/Visual_Basic" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Basic-0082FC?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Basic" height="20"/> </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" height="20"/> </a>
   <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/excel" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VBA-0093D2?style=for-the-badge&logo=microsoft&logoColor=white" alt="VBA" height="20"/> </a>
   
