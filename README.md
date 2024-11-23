@@ -146,3 +146,5 @@ _____________|','   ///_/-------------/   |
 [![Sebastian's GitHub Contributor stats-Dark](https://github-contributor-stats.vercel.app/api?username=SebastianLopezO&theme=dark&hide_contributor_rank=false#gh-dark-mode-only)](https://github.com/SebastianLopezO#gh-dark-mode-only)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SebastianLopezO&theme=onedark&row=2&column=3)](https://github.com/SebastianLopezO)
+
+<img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/output/snake.svg" alt="Snake animation" />
