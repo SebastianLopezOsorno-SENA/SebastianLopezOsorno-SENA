@@ -137,7 +137,7 @@ _____________|','   ///_/-------------/   |
 ## 📊 GitHub Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastianlopezo&label=Profile%20views&color=0e75b6&style=flat" alt="sebastianlopezo" /> </p>
 
-[![Sebastia's GitHub stats-Light](https://github-readme-stats-one-liart-24.vercel.app/api/top-langs/?username=SebastianLopezO&layout=compact&hide=HTML,Procfile,Papyrus&theme=dark)](https://github.com/SebastianLopezO#gh-dark-mode-only)
+[![Sebastia's GitHub stats-Light](https://github-readme-stats-one-liart-24.vercel.app/api/top-langs/?username=SebastianLopezO&layout=compact&hide=HTML,Procfile,Papyrus&langs_count=12&theme=dark)](https://github.com/SebastianLopezO#gh-dark-mode-only)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SebastianLopezO&theme=dark&hide_border=false&border_radius=10)](https://git.io/streak-stats)
 
