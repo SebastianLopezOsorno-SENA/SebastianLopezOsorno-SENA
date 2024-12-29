@@ -109,6 +109,7 @@ _____________|','   ///_/-------------/   |
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" height="20"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="20"/> </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" height="20"/> </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" height="20"/> </a>
   
    <h4>Backend as a Service</h4>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" height="20"/> </a>
