@@ -167,4 +167,15 @@ Each project highlights my hands-on approach and ability to tackle complex probl
 | [![AP3 GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP3&theme=dark)](https://github.com/EngineeringSebastian-s/AP3) | [![AP2 GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP2&theme=dark)](https://github.com/EngineeringSebastian-s/AP2) |
 | [![AP1 GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP1&theme=dark)](https://github.com/EngineeringSebastian-s/AP1) | [![CarSpace GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=CarSpace&theme=dark)](https://github.com/EngineeringSebastian-s/CarSpace) |
 
+## Repositories of TechnicalSebastians
+
+This space is dedicated to the projects and learning I've acquired during the **Software Programming Technique** course at **IUSH**. Throughout this course, I have developed projects that showcase my proficiency in different programming languages and technologies such as **C#**, **PHP**, **JavaScript**, **MySQL**, and **HTML/CSS**. The following repositories represent the work I have done, including tools like **Apache**, **Composer**, and **Docker**. These projects reflect my growth in **software development**, ranging from web applications to system tools.
+
+Each repository demonstrates my hands-on experience and my ability to create practical solutions, emphasizing both backend and frontend development, as well as the application of best practices in the software engineering process.
+
+
+| [![VideoToAscii GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=TechnicalSebastians&repo=VideoToAscii&theme=dark)](https://github.com/TechnicalSebastians/VideoToAscii) | [![SitePersist GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=TechnicalSebastians&repo=SitePersist&theme=dark)](https://github.com/TechnicalSebastians/SitePersist) |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![CalculadoraNasa GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=TechnicalSebastians&repo=CalculadoraNasa&theme=dark)](https://github.com/TechnicalSebastians/CalculadoraNasa) | [![AdminSitePersist GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=TechnicalSebastians&repo=AdminSitePersist&theme=dark)](https://github.com/TechnicalSebastians/AdminSitePersist) |
+
 
