@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sebastian </h1>
+<h1 align="center">Hi 👋, I'm Sebastian L</h1>
 <h3 align="center">A passionate Backend developer and Data Analyst from Colombia</h3>
 
 ## About Me
