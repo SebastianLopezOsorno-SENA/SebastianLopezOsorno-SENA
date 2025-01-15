@@ -35,7 +35,7 @@ _____________|','   ///_/-------------/   |
 ## Education
 
 - **2019-2021**  
-  High School Diploma with a Specialization in Computer Science  
+  High School with Specialization in Computer Science
   I.E. Inem José Félix de Restrepo
 
 - **2020-2021**  
