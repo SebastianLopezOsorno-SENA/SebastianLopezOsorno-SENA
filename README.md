@@ -72,6 +72,7 @@ _____________|','   ///_/-------------/   |
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="20"/> </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" height="20"/> </a>
   <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/excel" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VBA-0093D2?style=for-the-badge&logo=microsoft&logoColor=white" alt="VBA" height="20"/> </a>
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="20"/></a>
   
   <h4> Frontend Development</h4>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="20"/> </a>
@@ -112,6 +113,8 @@ _____________|','   ///_/-------------/   |
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="20"/> </a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" height="20"/> </a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" height="20"/> </a>
+  <a href="https://sqlite.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" height="20"/> </a>
+  <a href="https://www.h2database.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/H2-0033A0?style=for-the-badge&logo=databricks&logoColor=white" alt="H2" height="20"/> </a>
   
    <h4>DevOps</h4>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="20"/> </a>
@@ -119,6 +122,12 @@ _____________|','   ///_/-------------/   |
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="20"/> </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" height="20"/> </a>
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" height="20"/> </a>
+  <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" height="20"/> </a>
+    
+  <h4>Testing</h4>
+  <a href="https://junit.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white" alt="JUnit" height="20"/></a>
+  <a href="https://docs.pytest.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyTest-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyTest" height="20"/></a>
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="20"/> </a>
   
    <h4>Backend as a Service</h4>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" height="20"/> </a>
@@ -134,6 +143,11 @@ _____________|','   ///_/-------------/   |
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Zapier-FF4D00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" height="20"/> </a>
   <a href="https://www.azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" height="20"/> </
   <a href="https://www.zoho.com/deluge/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Zoho%20Deluge-0072C6?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho Deluge" height="20"/> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="20"/> </a>
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="20"/> </a>
+  <a href="https://replit.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" height="20"/> </a>
+  <a href="https://www.anaconda.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" height="20"/></a>
+  <a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" height="20"/></a>
 </p>
 
 
