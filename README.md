@@ -81,6 +81,7 @@ _____________|','   ///_/-------------/   |
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="20"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=black" alt="TailwindCSS" height="20"/> </a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" height="20"/> </a>
+  <a href="https://bricksbuilder.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bricks%20Builder-FF5733?style=for-the-badge&logo=wordpress&logoColor=white" alt="Bricks Builder" height="20"/></a>
   
   <h4>Backend Development</h4>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" height="20"/> </a>
