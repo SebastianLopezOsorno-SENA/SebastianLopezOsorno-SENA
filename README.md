@@ -120,6 +120,8 @@ _____________|','   ///_/-------------/   |
   <a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Render-6a45d2?style=for-the-badge&logo=render&logoColor=white" alt="Render" height="20"/> </a>
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" height="20"/> </a>
   <a href="https://pages.github.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" height="20"/> </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Cloud%20Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Cloud Redis" height="20"/> </a>
+  <a href="https://www.mongodb.com/atlas" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" height="20"/> </a>
   
    <h4>Other tools</h4>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="20"/> </a>
