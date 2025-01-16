@@ -97,6 +97,7 @@ _____________|','   ///_/-------------/   |
   <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js" height="20"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="20"/> </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" height="20"/> </a>
+  <a href="https://plotly.com/javascript/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Plotly.js-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly.js" height="20"/> </a>
   
   <h4>IoT</h4>
   <a href="https://micropython.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MicroPython-009639?style=for-the-badge&logo=python&logoColor=black" alt="MicroPython" height="20"/> </a>
