@@ -92,6 +92,11 @@ _____________|','   ///_/-------------/   |
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="20"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="20"/> </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Power%20BI-ffd200?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="20"/> </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" height="20"/> </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" height="20"/> </a>
+  <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js" height="20"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="20"/> </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" height="20"/> </a>
   
   <h4>IoT</h4>
   <a href="https://micropython.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MicroPython-009639?style=for-the-badge&logo=python&logoColor=black" alt="MicroPython" height="20"/> </a>
