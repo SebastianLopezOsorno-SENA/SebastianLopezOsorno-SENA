@@ -73,6 +73,8 @@ _____________|','   ///_/-------------/   |
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" height="20"/> </a>
   <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/excel" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VBA-0093D2?style=for-the-badge&logo=microsoft&logoColor=white" alt="VBA" height="20"/> </a>
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="20"/></a>
+  <a href="https://developers.google.com/apps-script" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google%20Apps%20Script-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script" height="20"/></a>
+  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white" alt="Assembly" height="20"/></a>
   
   <h4> Frontend Development</h4>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="20"/> </a>
