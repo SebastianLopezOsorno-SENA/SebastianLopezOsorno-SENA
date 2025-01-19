@@ -158,12 +158,44 @@ _____________|','   ///_/-------------/   |
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/sebastianlopezo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sebastianlopezo" height="30" width="40" /></a>
-<a href="https://dev.to/sebastianlopezo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sebastianlopezo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sebastianlopezosorno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastianlopezosorno" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20429376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20429376" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sebastianlopezo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sebastianlopezo1" height="30" width="40" /></a>
+  <a href="https://codepen.io/sebastianlopezo" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+  <a href="https://dev.to/sebastianlopezo" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://linkedin.com/in/sebastianlopezosorno" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/20429376" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="https://www.hackerrank.com/sebastianlopezo1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.freecodecamp.org/sebastianlopezo" target="_blank">
+    <img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp" />
+  </a>
+  <a href="https://replit.com/@sebastianlopezo" target="_blank">
+    <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
+  </a>
+  <a href="https://hub.docker.com/u/sebastian190030" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+  <a href="https://wakatime.com/@SebastianLopezO" target="_blank">
+    <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime" />
+  </a>
+  <a href="https://gitlab.com/sebastianlopezo" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  </a>
+  <a href="https://platzi.com/p/SebastianLopezO/" target="_blank">
+    <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi" />
+  </a>
 </p>
+<p align="left">
+  <b>Discord:</b> Sebastian L#3822
+</p>
+
 
 ## 📊 GitHub Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastianlopezo&label=Profile%20views&color=0e75b6&style=flat" alt="sebastianlopezo" /> </p>
