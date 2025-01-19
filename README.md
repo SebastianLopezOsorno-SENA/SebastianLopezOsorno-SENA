@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sebastian L</h1>
 <h3 align="center">A passionate Backend developer and Data Analyst from Colombia</h3>
+
 ![Banner](https://github.com/SebastianLopezO/SebastianLopezO/blob/main/Sebastian-s-banner.png)
+
 ## About Me
 
 I am a self-taught individual with a strong drive for knowledge and a keen interest in my field of study. My research and analytical skills have been instrumental in my learning process, which has encompassed a diverse range of knowledge, with a particular focus on the technological area. This has led to the development of a passion for knowledge and a recognition of the value of education in my personal and professional development.
