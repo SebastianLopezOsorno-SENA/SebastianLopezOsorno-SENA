@@ -192,10 +192,6 @@ _____________|','   ///_/-------------/   |
     <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi" />
   </a>
 </p>
-<p align="left">
-  <b>Discord:</b> Sebastian L#3822
-</p>
-
 
 ## 📊 GitHub Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastianlopezo&label=Profile%20views&color=0e75b6&style=flat" alt="sebastianlopezo" /> </p>
